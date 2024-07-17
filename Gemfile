@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "reno-test-engine", ">= 0.1.0", git: "git@github.com:bgastelo/reno-test-engine.git", branch: "main"
+gem "reno-test-engine", ">= 0.1.0", git: "https://github.com/bgastelo/reno-test-engine.git", branch: "main"

@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:bgastelo/reno-test-engine.git
+  remote: https://github.com/bgastelo/reno-test-engine.git
   revision: 3303d4b809abdc9033b385fd242928b5ffc9d9f0
   branch: main
   specs:
